@@ -3,6 +3,7 @@ import { Profile } from '../../interfaces/profile';
 import { skeleton } from '../../utils';
 import LazyImage from '../lazy-image';
 
+
 interface AvatarCardProps {
   profile: Profile | null;
   loading: boolean;
@@ -89,7 +90,7 @@ const AvatarCard: React.FC<AvatarCardProps> = ({
               download
               rel="noreferrer"
             >
-              Download Resume
+              My Resume
             </a>
           ))}
       </div>
