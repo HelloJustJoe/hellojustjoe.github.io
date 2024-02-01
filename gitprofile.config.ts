@@ -17,7 +17,7 @@ const CONFIG = {
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 8, // How many projects to display.
+        limit: 4, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
@@ -54,7 +54,7 @@ const CONFIG = {
   seo: {
     title: 'Joe Vincent',
     description: 'Joe Vincent - Portfolio',
-    imageURL: '',
+    imageURL: 'https://avatars.githubusercontent.com/u/38983523?v=4',
   },
   social: {
     linkedin: 'hellojustjoe',
@@ -93,46 +93,64 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Self-employed',
+      position: 'Python Tutor & Data Science and Analysis',
+      from: 'January 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'hellojustjoe.github.io',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'CACI',
+      position: 'InSite Analyst',
+      from: 'September 2021',
+      to: 'September 2023',
+      companyLink: 'https://caci.co.uk',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
+      name: 'Google Data Analytics Professional Certificate',
+      body: 'Google & Coursera',
+      year: 'January 2024',
+      link: 'https://www.linkedin.com/in/hellojustjoe/details/certifications/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADzygh0BaAhxDnhn_OErMKeCmxIvDeL-ltQ',
+    },
+    {
+      name: 'Microsoft Power BI Desktop for Business Intelligence',
+      body: 'Udemy',
+      year: 'March 2023',
+      link: 'https://www.linkedin.com/in/hellojustjoe/details/certifications/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADzygh0BaAhxDnhn_OErMKeCmxIvDeL-ltQ',
+    },
+    {
+      name: 'CompTIA Project+',
+      body: 'CompTIA',
       year: 'March 2022',
-      link: 'https://example.com',
+      link: 'https://www.linkedin.com/in/hellojustjoe/details/certifications/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADzygh0BaAhxDnhn_OErMKeCmxIvDeL-ltQ',
+    },
+    {
+      name: 'CompTIA A+',
+      body: 'CompTIA',
+      year: 'April 2021',
+      link: 'https://www.linkedin.com/in/hellojustjoe/details/certifications/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADzygh0BaAhxDnhn_OErMKeCmxIvDeL-ltQ',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Le Wagon',
+      degree: 'Data Science and AI Diploma',
+      from: '2023',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'The Open University',
+      degree: 'CoHE in Data Science',
+      from: '2021',
+      to: '2024',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: 'medium', // medium | dev
+    username: '', // to hide blog section, keep it empty
     limit: 3, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
