@@ -38,7 +38,7 @@ const CONFIG = {
         {
           title: 'Google Capstone Analysis',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Capstone project for Google Data Analysis Professional Certificate, breaking down fitnness tracking data',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -46,7 +46,7 @@ const CONFIG = {
         {
           title: 'CDMX 911 Analysis',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Final Project for Data Science Bootcamp. Analyzing and predicting 911 calls in CDMX',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -228,7 +228,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Thanks for reading ❤️`,
+  footer: `Thanks for reading ✨`,
 
   enablePWA: true,
 };
