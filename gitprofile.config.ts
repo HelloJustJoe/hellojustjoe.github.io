@@ -64,7 +64,7 @@ const CONFIG = {
     twitter: 'hellojustjoe',
     mastodon: '',
     facebook: '',
-    instagram: 'hellojustjoe',
+    instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
