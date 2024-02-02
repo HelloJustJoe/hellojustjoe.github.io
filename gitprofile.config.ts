@@ -36,7 +36,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Google Capstone Analysis',
+          title: 'Google Data Analysis Capstone Project',
           description:
             'Capstone project for Google Data Analysis Professional Certificate, breaking down fitnness tracking data',
           imageUrl:
@@ -44,7 +44,7 @@ const CONFIG = {
           link: 'https://example.com',
         },
         {
-          title: 'CDMX 911 Analysis',
+          title: 'Le Wagon - CDMX 911 Call Analysis',
           description:
             'Final Project for Data Science Bootcamp. Analyzing and predicting 911 calls in CDMX',
           imageUrl:
