@@ -61,7 +61,7 @@ const CONFIG = {
   },
   social: {
     linkedin: 'hellojustjoe',
-    twitter: 'hellojustjoe',
+    twitter: '',
     mastodon: '',
     facebook: '',
     instagram: '',
