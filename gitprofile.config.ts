@@ -40,7 +40,7 @@ const CONFIG = {
           description:
             'Capstone project for Google Data Analysis Professional Certificate, breaking down fitnness tracking data',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://imgur.com/a/aHQVLtA',
           link: 'https://example.com',
         },
         {
