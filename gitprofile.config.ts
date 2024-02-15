@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['HelloJustJoe/taxi-fare-interface', 'HelloJustJoe/hellojustjoe.github.io'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['HelloJustJoe/cdmx911_frontend', 'HelloJustJoe/cdmx911_api', 'HelloJustJoe/cdmx911_project','HelloJustJoe/taxi-fare-interface', 'HelloJustJoe/hellojustjoe.github.io'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
         },
