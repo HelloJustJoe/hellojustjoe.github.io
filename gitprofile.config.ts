@@ -48,8 +48,8 @@ const CONFIG = {
           description:
             'Final Project for Data Science Bootcamp. Analyzing and predicting 911 calls in CDMX',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://ibb.co/MM3Nmcy',
+          link: 'https://cdmx911.streamlit.app/',
         },
       ],
     },
