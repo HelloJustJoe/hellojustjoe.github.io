@@ -48,7 +48,7 @@ const CONFIG = {
           description:
             'Final Project for Data Science Bootcamp. Analyzing and predicting 911 calls in CDMX',
           imageUrl:
-            'https://ibb.co/MM3Nmcy',
+            'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.appcreator24.com%2Fsrv%2Fimgs%2Fgen%2F142733_ico.png%3Fts%3D1599571800&f=1&nofb=1&ipt=a123636bb56d7ef12898d03b5cb9aeb8a799258e6d2335080b76b5fcab6cf703&ipo=images',
           link: 'https://cdmx911.streamlit.app/',
         },
       ],
