@@ -28,8 +28,7 @@ const CONFIG = {
         projects: ['HelloJustJoe/cdmx911_frontend',
                   'HelloJustJoe/cdmx911_api',
                   'HelloJustJoe/cdmx911_project',
-                  'HelloJustJoe/dataScienceWebApp',
-                  'HelloJustJoe/hellojustjoe.github.io'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+                  'HelloJustJoe/dataScienceWebApp'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
         },
@@ -50,7 +49,7 @@ const CONFIG = {
         {
           title: 'Le Wagon - CDMX 911 Call Analysis',
           description:
-            'Final Project for Data Science Bootcamp. Analyzing and predicting 911 calls in CDMX',
+            'Le Wagon Data Science Final Project. Analyzing historical calls, and predicting future 911 calls in CDMX. Predictions using Meta\s Prophet, API using Fast API and Docker, frontend built and deployed with Streamlit',
           imageUrl:
             'https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.appcreator24.com%2Fsrv%2Fimgs%2Fgen%2F142733_ico.png%3Fts%3D1599571800&f=1&nofb=1&ipt=a123636bb56d7ef12898d03b5cb9aeb8a799258e6d2335080b76b5fcab6cf703&ipo=images',
           link: 'https://cdmx911.streamlit.app/',
@@ -157,7 +156,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
-    username: 'hellojustjoe', // to hide blog section, keep it empty
+    username: '@hellojustjoe', // to hide blog section, keep it empty
     limit: 3, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
