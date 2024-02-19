@@ -42,7 +42,7 @@ const CONFIG = {
         {
           title: 'Google Data Analysis Capstone Project',
           description:
-            'Capstone project for Google Data Analysis Professional Certificate, breaking down fitnness tracking data',
+            'Notice: Streamlit deployment under construction! Check back soon! - Capstone project for Google Data Analysis Professional Certificate, breaking down fitnness tracking data',
           imageUrl:
             'https://imgur.com/a/aHQVLtA',
           link: 'https://example.com',
