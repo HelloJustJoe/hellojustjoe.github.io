@@ -43,7 +43,7 @@ const CONFIG = {
           description:
             'Notice: Streamlit deployment under construction! Check back soon! - Capstone project for Google Data Analysis Professional Certificate, breaking down fitnness tracking data',
           imageUrl:
-            'https://imgur.com/a/aHQVLtA',
+            'https://freesvg.org/storage/img/thumb/under-construction-woman_at_work-o-f-daisy.png',
           link: 'https://example.com',
         },
         {
