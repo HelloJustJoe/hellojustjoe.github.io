@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'Hellojustjoe', // Your GitHub org/user name. (This is the only required config)
+    username: 'hellojustjoe', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -59,8 +59,8 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Joe Vincent',
-    description: 'Joe Vincent - Portfolio',
+    title: 'Joe Vincent | hellojustjoe',
+    description: 'Joe Vincent | hellojustjoe',
     imageURL: 'https://avatars.githubusercontent.com/u/38983523?v=4',
   },
   social: {
@@ -157,7 +157,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
-    username: 'Hellojustjoe', // to hide blog section, keep it empty
+    username: 'hellojustjoe', // to hide blog section, keep it empty
     limit: 3, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
@@ -232,7 +232,11 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Thanks for reading ✨`,
+  footer: `<a
+          class="text-primary" href="mailto:hellojustjoe@gmail.com"
+          target="_blank"
+          rel="noreferrer noopener"
+          >Get in touch!</a>`,
 
   enablePWA: true,
 };
