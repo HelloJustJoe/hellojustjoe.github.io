@@ -62,6 +62,14 @@ const CONFIG = {
             'https://media.istockphoto.com/vectors/big-apple-new-york-city-vector-id487234172?k=6&m=487234172&s=170667a&w=0&h=fTlPn1lTAME0pQB1w-4LE78YfIGtZ2dYZmjM6zXSGws=',
           link: 'https://newyorkcitycollisiondashboard.streamlit.app/',
         },
+        {
+          title: 'Machine Learning Web App',
+          description:
+            'Under Construction - Machine Learning Web App - Built with streamlit, pandas, numpy, scikit-learn, and plotly.',
+          imageUrl:
+            'https://freesvg.org/storage/img/thumb/under-construction-woman_at_work-o-f-daisy.png',
+          link: '',
+        },
       ],
     },
   },
