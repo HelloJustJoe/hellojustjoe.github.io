@@ -44,7 +44,7 @@ const CONFIG = {
             'Notice: Streamlit deployment under construction! Check back soon! - Capstone project for Google Data Analysis Professional Certificate, breaking down fitnness tracking data',
           imageUrl:
             'https://freesvg.org/storage/img/thumb/under-construction-woman_at_work-o-f-daisy.png',
-          link: 'https://example.com',
+          link: '',
         },
         {
           title: 'Le Wagon - CDMX 911 Call Analysis',
