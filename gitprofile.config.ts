@@ -93,12 +93,12 @@ const CONFIG = {
     skype: '',
     telegram: '',
     website: '',
-    phone: '+447516 306 457',
-    email: 'hellojustjoe@gmail.com',
+    phone: '',
+    email: 'joevincent@protonmail.com',
   },
   resume: {
     fileUrl:
-      'https://github.com/HelloJustJoe/CV/blob/main/Joe%20Vincent%20CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/hellojustjoe/CV/blob/main/JV-CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
